@@ -9,6 +9,13 @@ Check out the libraries on GitHub:
 - [Redux](https://github.com/reactjs/redux)
 - [React Native](https://github.com/facebook/react-native)
 
+Browse the open issues for relevant projects:
+- [react issues](https://github.com/facebook/react/issues), well labeled, coded for difficulty (including "beginner")
+- [react-native issues](https://github.com/facebook/react-native/issues), well labeled, including "Good First Task"
+- [redux issues](https://github.com/reactjs/redux/issues), sometimes labeled, may have a number marked "help wanted"
+- [react-redux issues](https://github.com/reactjs/react-redux/issues), sometimes labeled, may include some "help wanted"
+- [react-router](https://github.com/ReactTraining/react-router/issues), sometimes labeled, may include some "help wanted"
+
 Facebook also has a page dedicated to [its current projects](https://code.facebook.com/projects/).
 
 ## Contributing guides
